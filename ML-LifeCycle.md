@@ -79,9 +79,6 @@ Once the model is trained and validated, deploy it into a production environment
 * Integrate with applications or dashboards.
 * Monitor model performance in real time and retrain if needed.
 
----
-
-You can copy this directly into a `notes.md` or `README.md` file. Let me know if you'd like a visual flow diagram or collapsible sections too!
 
 
 
