@@ -53,7 +53,7 @@ Improve model performance by:
 
   * Correlation heatmaps
   * Feature importance from models (e.g., Random Forest)
-  * Dimensionality reduction techniques (PCA, Lasso)
+  * Dimensionality reduction techniques (PCA, Lasso).
 
 ---
 
