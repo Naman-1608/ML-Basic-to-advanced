@@ -88,6 +88,7 @@ def sgd_update(model, x, y, lr=0.01):
 ## 🛠️ **Implementation Examples**
 
 ### **Basic Example (scikit-learn)**
+
 ```python
 from sklearn.linear_model import SGDClassifier
 import numpy as np
@@ -191,3 +192,4 @@ for x, y in data_stream:
 * **Social Media**: Content filtering, trend prediction
 * **Financial Trading**: Algorithmic trading, risk assessment
 * **Healthcare**: Patient monitoring, disease prediction
+---
